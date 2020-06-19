@@ -1,0 +1,8 @@
+﻿  Source.cpp
+D:\Project\SnakeGame\SnakeGame\Random.cpp(19,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Project\SnakeGame\SnakeGame\Console.cpp(39,29): warning C4018: '<': signed/unsigned mismatch
+D:\Project\SnakeGame\SnakeGame\Users.cpp(16,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Project\SnakeGame\SnakeGame\Source.cpp(22,19): warning C4309: 'initializing': truncation of constant value
+D:\Project\SnakeGame\SnakeGame\Source.cpp(23,20): warning C4309: 'initializing': truncation of constant value
+D:\Project\SnakeGame\SnakeGame\Source.cpp(24,20): warning C4309: 'initializing': truncation of constant value
+  SnakeGame.vcxproj -> D:\Project\SnakeGame\Debug\SnakeGame.exe
